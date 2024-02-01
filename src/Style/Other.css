@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+.other{
+    font-family:'Roboto';
+    width: 212px;
+    height: 18px;
+    /* opacity: 50%; */
+    font-weight: 500;
+    size: 12px;
+    line-height: 18px;
+    padding-left: 6px;
+    color: #686868;
+    padding-bottom: 33px;
+}
+.other:hover{
+    cursor: pointer;
+}
+.support{
+    width: 164px;
+    height: 24px;
+    font-weight: 400;
+    size: 16px;
+    line-height: 24px;
+    color: #686868;
+}
+.support:hover{
+    cursor: pointer;
+}
+.settings{
+    width: 164px;
+    height: 24px;
+    font-weight: 400;
+    size: 16px;
+    line-height: 24px;
+    color: #686868;
+}
+.settings:hover{
+    cursor: pointer;
+}
+.outer{
+    display: flex; 
+    justify-content: space-evenly;
+    padding-top: 2px;
+    align-items: center;
+    height: 40px;
+    padding-left: 6px;
+    padding-top: 0px;
+    padding-bottom: 6px;
+    /* padding-right: 30px; */
+    gap: 24px;
+}
+.outer:hover{
+    cursor: pointer;
+}

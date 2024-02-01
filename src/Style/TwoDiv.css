@@ -1,0 +1,59 @@
+.firstdivtwodiv{
+    border: 1px solid rgb(120, 115, 115);
+    width: 290px;
+    height: 140px;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 10px;
+    border-radius: 4px;
+}
+.firstdivtwodiv:hover{
+     box-shadow: 5px 5px 5px #FFEFE7;
+
+}
+.maintwodiv{
+     display: flex; 
+     justify-content: space-between;
+}
+.totalemployees{
+     font-weight: 500;
+     font-size: 18px;
+     color: #000000;
+}
+.div216{
+     font-weight: 500;
+     font-size: 30px;
+     color: #000000;
+}
+.paragraph{
+     gap: 4px;
+     font-size: 10px;
+     padding-top: 12px;
+}
+.inner-para{
+     color: #686868;
+}
+.left-img{
+     width: 100px;
+     height: 100px;
+     padding-top: 13px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

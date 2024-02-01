@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+.mainmenu{
+      font-family:'Roboto';
+      width: 212px;
+      height: 18px;
+      /* opacity: 50%; */
+      font-weight: 500;
+      size: 12px;
+      line-height: 18px;
+      color: #686868;
+}
+.outer:hover{
+      cursor: pointer;
+}
+.outermenu{
+      width: 220px;
+      height: 38px;
+      padding-left: 10px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      padding-right: 30px;
+      gap: 10px;
+      /* border: 2px solid red; */
+}
+.dashboard{
+      width: 164px;
+      height: 24px;
+      font-weight: 500;
+      size: 16px;
+      line-height: 24px;
+      color:#FF5151;
+}
+.dashboard:hover{
+       cursor: pointer;
+}
+.imgdash{
+      width: 18px;
+      height: 18px;
+      top: 3px;
+      left: 3px;
+      color:#FF5151;
+}
+.imgdash:hover{
+       cursor: pointer;
+}
+.outerdash{
+      display: flex; 
+      justify-content: space-evenly;
+      padding-top: 2px;
+      align-items: center;
+}
+.outerdash:hover{
+      cursor: pointer;
+}
+.recruitment{
+      width: 164px;
+      height: 24px;
+      font-weight: 400;
+      size: 16px;
+      line-height: 24px;
+      color: #686868;
+}
+.recruitment:hover{
+       cursor: pointer;
+}
+.imgouter{
+     width: 18px;
+     height: 16px;
+     top: 3px;
+     left: 3px;
+}
+.outer{
+     display: flex; 
+     justify-content: space-evenly;
+     padding-top: 2px;
+     align-items: center;
+     height: 40px;
+     padding-left: 6px;
+     padding-top: 0px;
+     padding-bottom: 6px;
+     /* padding-right: 30px; */
+     gap: 24px;
+}
+.schedule{
+     width: 164px;
+     height: 24px;
+     font-weight: 400;
+     size: 16px;
+     line-height: 24px;
+     color: #686868;
+}
+.schedule:hover{
+       cursor: pointer;
+}
+.employee{
+     width: 164px;
+     height: 24px;
+     font-weight: 400;
+     size: 16px;
+     line-height: 24px;
+     color: #686868;
+}
+.employee:hover{
+       cursor: pointer;
+}
+.department{
+     width: 164px;
+     height: 24px;
+     font-weight: 400;
+     size: 16px;
+     line-height: 24px;
+     color: #686868;
+}
+.department:hover{
+       cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

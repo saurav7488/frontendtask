@@ -1,0 +1,66 @@
+.First-div{
+     /* border: 2px solid red; */
+     width: 190px;
+     height: 90px;
+     margin: auto;
+     padding-left: 13px;
+     border-radius: 4px;
+}
+.main-div{
+     display: flex;
+     justify-content: space-between;
+}
+.availableposition{
+     font-size: 14px;
+     font-weight: 500;
+     color: #000000;
+}
+.div24{
+     font-weight: 500;
+     font-size: 28px;
+     color: #000000;
+}
+.urgentlyneeded{
+     font-size: 14px;
+     font-weight: 500;
+     color: #000000;
+}
+.colorfill1{
+      background-color: #FFEFE7;
+}
+
+.colorfill2{
+    background-color: #E8F0FB;
+    /* text-shadow: 2px 2px 4px #000000; */
+}
+.colorfill1:hover{
+     box-shadow: 5px 5px 5px #FFEFE7;
+}
+.colorfill3{
+    background-color: #FDEBF9;
+}
+
+.colorfill2:hover{
+     box-shadow: 5px 5px 5px #E8F0FB;;
+}
+
+.colorfill3:hover{
+     box-shadow: 5px 5px 5px #FDEBF9;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

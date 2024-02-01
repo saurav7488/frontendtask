@@ -1,0 +1,52 @@
+.first{
+     display: flex;
+     justify-content: space-evenly
+}
+.profile{
+     width: 52.92px;
+     height: 78.96px;
+     top: -5.04px;
+     left: -5.88px;
+}
+.name{
+     position: relative;
+     left: 20px;
+     bottom: 2px;
+}
+.profileImg{
+     border-radius: 100px;
+}
+.profileImg:hover{
+     cursor: pointer;
+}
+.bell{
+     width: 24px;
+     height: 24px;
+     position:relative;
+     left: 45px;
+}
+.bell:hover{
+     cursor: pointer;
+}
+.bello{
+     width: 24px;
+     height: 24px;
+     display: flex;
+}
+.bello:hover{
+     cursor: pointer;
+}
+.second{
+     display: flex;
+     padding-left: 10px;
+     justify-items: normal;
+     justify-content: space-between;
+     position: relative;
+     left: 34px;
+}
+.second:hover{
+     cursor: pointer;
+}
+.bell1:hover{
+   cursor: pointer;
+}

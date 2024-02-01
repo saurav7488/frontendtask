@@ -1,0 +1,64 @@
+.outerdashboard{
+     width: 600px;
+     height: 62px;
+     /* top: 102px;
+     left: 293px; */
+     padding: 10px 10px 10px 10px;
+     gap: 10px;
+     position: relative;
+     bottom: 12px;
+     
+}
+.innerdashboard{
+     width: 630px;
+     height: 42px;
+     font-weight: 500;
+     font-size: 24px;
+     line-height: 42px;
+}
+.fivediv{
+      /* border: 2px solid #ff0000; */
+      height: 500px;
+      width: 500px;
+      display: flex;
+      position: relative;
+      bottom: 20px;
+}
+.threediv{
+      /* border: 2px solid black; */
+      height: 100px;
+      width: 600px
+}
+.twodiv{
+     /* border: 2px solid black; */
+     height: 140px;
+}
+.onediv{
+      /* border: 2px solid grey; */
+      height: 250px;
+}
+.sidetopdiv{
+      border: 1px solid;
+      height: 300px;
+      width: 356px;
+      position: relative;
+      left: 15px;
+      border-radius: 6px;
+}
+.sidebotttomdiv{
+      /* border: 2px solid pink; */
+      height:550px;
+      position: relative;
+      top: 12px;
+      left: 16px;
+}
+.allTwodiv{
+      display: flex;
+      flex-direction: column;
+}
+
+
+
+
+
+

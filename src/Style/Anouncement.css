@@ -1,0 +1,152 @@
+.announcement{
+    /* border: 2px solid yellow; */
+     display: flex;
+     width: 550px;
+     position: relative;
+     top: 10px;
+     left: 20px;
+}
+.img-dates{
+    position: relative;
+    left: 275px;
+}
+.header-announcement{
+    font-size: 18px;
+    font-weight: 500;
+    color: #000000;
+}
+.middle-announcement{
+     border: 1px solid rgb(220, 215, 215);
+     width: 550px;
+     height: 50px;
+     position: relative;
+     top: 25px;
+     left: 20px;
+     display: flex;
+     border-radius: 6px;
+     background-color: rgb(227, 221, 221);
+
+}
+
+.middle-announcement2{
+    border: 1px solid rgb(220, 215, 215);
+    width: 550px;
+    height: 50px;
+    position: relative;
+    top: 35px;
+    left: 20px;
+    display: flex;
+    border-radius: 6px;
+    background-color: rgb(227, 221, 221);
+
+}
+
+.middle-announcement3{
+    border: 1px solid rgb(220, 215, 215);
+    width: 550px;
+    height: 50px;
+    position: relative;
+    top: 40px;
+    left: 20px;
+    display: flex;
+    border-radius: 6px;
+    background-color: rgb(227, 221, 221);
+}
+
+
+.pin{
+     width: 24px;
+     height: 24px;
+     position: relative;
+     top: 9px;
+     left: 210px;
+}
+.chat{
+    width: 24px;
+    height: 24px;
+    position: relative;
+    top: 9px;
+    left: 225px;
+}
+
+.annoucement-header{
+     font-weight: 400;
+     font-size: 14px;
+     color:#000000;
+}
+.announcement-para{
+     font-weight: 400;
+     font-size: 10px;
+     height: 14px;
+     color: #686868;
+}
+.announcemant-both{
+     position: relative;
+     top: 5px;
+     left: 20px;
+}
+
+.pin1{
+    width: 24px;
+    height: 24px;
+    position: relative;
+    top: 9px;
+    left: 293px;
+}
+.chat1{
+   width: 24px;
+   height: 24px;
+   position: relative;
+   top: 9px;
+   left: 310px;
+}
+
+.pin2{
+    width: 24px;
+    height: 24px;
+    position: relative;
+    top: 9px;
+    left: 150px;
+}
+.chat2{
+   width: 24px;
+   height: 24px;
+   position: relative;
+   top: 9px;
+   left: 168px;
+}
+.announcement-footer{
+     /* border: 2px solid black; */
+     height: 30px;
+     position: relative;
+     top: 38px;
+     border: 1px solid grey;
+     border-radius: 4px;
+}
+.allAnnouncement{
+     color: #FF5151;
+     position: relative;
+     left: 180px;
+     top: 4px;
+     font-size: 14px;
+     
+}
+.announcement-footer:hover{
+     cursor: pointer;
+}
+.main-things{
+     width: 600px;
+     border: 1px solid grey;
+     height: 246px;
+     border-radius: 4px;
+     position: relative;
+     top: 12px;
+}
+
+
+
+
+
+
+
+
